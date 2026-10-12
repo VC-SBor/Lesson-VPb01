@@ -1,0 +1,12 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Данные расписания (создаётся автоматически)
+schedule_data.json
